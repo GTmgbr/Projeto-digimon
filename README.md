@@ -32,5 +32,11 @@ Tecnologias usadas:
 
 Desenvolvedor: Gustavo Totti Custódio dos Santos
 
+## Como funciona
+
+1) O user digita o nome de um Digimon no campo de busca
+2) Se o Digimon digitado estiver no banco, sua imagem é exibida, bem como seu level e a quantidade total de outros Digimons com o mesmo level
+3) Se o Digimon digitado não estiver no banco, uma mensagem de erro é exibida 
+
 
 
