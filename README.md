@@ -1,6 +1,6 @@
 # Projeto Digimon
 
-Teste para estágio na empresa GF Software Financeiro
+Teste prático para estágio na empresa GF Software Financeiro
 
 Link de acesso ➔ https://api-digimon-gustavo.netlify.app/
 
