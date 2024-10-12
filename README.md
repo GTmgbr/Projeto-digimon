@@ -10,3 +10,25 @@ Tecnologias usadas:
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
+# Desenvolvimento
+
+📌 Primeiramente, um arquivo JSON foi disponibilizado a partir da API: https://digimon-api.vercel.app/
+
+📌 O conteúdo do arquivo contendo os dados de todos os Digimons foi baixado e colocado em um data.json
+
+📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database. 
+
+📌 A partir do arquivo .json, o banco foi populado automaticamente utilizando um programa chamado Firefoo
+
+📌 A API para consumir este banco foi construída utilizando JavaScript simples
+
+📌 As credenciais do banco, bem como as operações de acesso aos dados estão contidas neste arquivo api.js
+
+📌 A estilização da página foi feita com HTML + CSS 
+
+📌 Por fim, o deploy do projeto foi feito utilizando a ferramenta de hospedagem Netlify
+
+Desenvolvedor: Gustavo Totti Custódio dos Santos
+
+
+
