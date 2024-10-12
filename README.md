@@ -16,7 +16,7 @@ Tecnologias usadas:
 
 📌 O conteúdo do arquivo contendo os dados de todos os Digimons foi baixado e colocado em um data.json
 
-📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database. 
+📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database
 
 📌 A partir do arquivo .json, o banco foi populado automaticamente utilizando um programa chamado Firefoo
 
