@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Digimon</title>
+    <link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
+    <link rel="shortcut icon" type="imagex/png" href="img/logo.png">
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Firebase SDK compatível -->
+    <script src="https://www.gstatic.com/firebasejs/9.19.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.19.1/firebase-firestore-compat.js"></script>
+</head>
+
+<body>
+    <div class="fundo">
+        <h1 class="titulo">Teste API Digimon</h1>
+        <div id="container-principal">
+            <section id="container-sec">
+                <div class="card" id="poke-sec">
+                    <img class="card-img-top" src="./img/images.png" id="img-digi" style="border-radius: 6%;">
+                    <div class="card-body">
+                        <p class="card-text">Digite o nome do Digimon que está procurando.</p>
+                    </div>
+                    <input type="text" id="digimonNome" placeholder="Nome do Digimon">
+                    <button id="consultaButton">Consultar</button>
+                    <p id="resultado"></p>
+                </div>
+            </section>
+        </div>
+    </div>
+    <script src="./api.js"></script>
+</body>
+</html>
