@@ -26,7 +26,7 @@ Tecnologias usadas:
 
 📌 A estilização da página foi feita com HTML + CSS 
 
-📌 Por fim, o deploy do projeto foi feito utilizando a ferramenta de hospedagem Netlify
+📌 Por fim, o deploy do projeto foi feito utilizando a ferramenta de hospedagem gratuita Netlify
 
 Desenvolvedor: Gustavo Totti Custódio dos Santos
 
