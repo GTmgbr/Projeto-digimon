@@ -12,7 +12,7 @@ Tecnologias usadas:
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
-# Desenvolvimento
+## Desenvolvimento
 
 📌 Primeiramente, um arquivo JSON foi disponibilizado a partir da API: https://digimon-api.vercel.app/
 
@@ -30,7 +30,8 @@ Tecnologias usadas:
 
 📌 Por fim, o deploy do projeto foi feito utilizando a ferramenta de hospedagem gratuita Netlify
 
-Desenvolvedor: Gustavo Totti Custódio dos Santos
+
+💻 Desenvolvedor: Gustavo Totti Custódio dos Santos
 
 ## Como funciona
 
