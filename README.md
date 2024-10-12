@@ -24,7 +24,7 @@ Tecnologias usadas:
 
 📌 A API para consumir este banco foi construída utilizando JavaScript simples
 
-📌 As credenciais do banco, bem como as operações de acesso aos dados estão contidas neste arquivo api.js
+📌 As credenciais do banco, bem como os métodos de acesso aos dados estão contidos neste arquivo api.js
 
 📌 A estilização da página foi feita com HTML + CSS 
 
