@@ -2,7 +2,7 @@
 
 Teste prático para estágio na empresa GF Software Financeiro
 
-Link de acesso ➔ https://api-digimon-gustavo.netlify.app/
+Link de acesso ➔ https://projeto-digimon-gustavo-totti.netlify.app
 
 Tecnologias usadas: 
 <p align="left">
