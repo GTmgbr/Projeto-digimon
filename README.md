@@ -20,7 +20,7 @@ Tecnologias usadas:
 
 📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database
 
-📌 A partir do arquivo .json, o banco foi populado de forma automática utilizando um programa chamado Firefoo
+📌 A partir do arquivo data.json, o banco foi populado de forma automática utilizando um programa chamado Firefoo
 
 📌 A API para consumir este banco foi construída em um arquivo api.js utilizando JavaScript puro 
 
@@ -28,7 +28,7 @@ Tecnologias usadas:
 
 📌 A estilização da página foi feita com HTML + CSS 
 
-📌 Por fim, o deploy do projeto foi realizado utilizando a ferramenta de hospedagem gratuita e online chamada Netlify
+📌 Por fim, o deploy do projeto foi realizado utilizando uma ferramenta de hospedagem gratuita e online chamada Netlify
 
 🌐 databaseURL ➔ https://projeto-digimon-default-rtdb.firebaseio.com
 
