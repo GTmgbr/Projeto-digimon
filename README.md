@@ -20,7 +20,7 @@ Tecnologias usadas:
 
 📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database
 
-📌 A partir do arquivo data.json, o banco foi populado de forma automática utilizando um programa chamado Firefoo
+📌 A partir do arquivo data.json, uma coleção do banco foi populada de forma automática utilizando um programa chamado Firefoo
 
 📌 A API para consumir este banco foi construída em um arquivo api.js utilizando JavaScript puro 
 
