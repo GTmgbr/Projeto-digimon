@@ -22,7 +22,7 @@ Tecnologias usadas:
 
 📌 A partir do arquivo .json, o banco foi populado de forma automática utilizando um programa chamado Firefoo
 
-📌 A API para consumir este banco foi construída utilizando JavaScript simples
+📌 A API para consumir este banco foi construída utilizando JavaScript puro
 
 📌 As credenciais do banco, bem como os métodos de acesso aos dados estão contidos neste arquivo api.js
 
