@@ -30,7 +30,7 @@ Tecnologias usadas:
 
 📌 Por fim, o deploy do projeto foi realizado utilizando a ferramenta de hospedagem gratuita Netlify
 
-apiKey do banco ➔ AIzaSyA8Qq4YcuI70Gp6YwG-Klz-LRbml7enhpo
+🌐 apiKey do banco ➔ AIzaSyA8Qq4YcuI70Gp6YwG-Klz-LRbml7enhpo
 
 💻 Desenvolvedor: Gustavo Totti Custódio dos Santos
 
