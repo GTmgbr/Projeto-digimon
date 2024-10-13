@@ -16,19 +16,19 @@ Tecnologias usadas:
 
 📌 Primeiramente, um arquivo JSON foi disponibilizado a partir da API: https://digimon-api.vercel.app/
 
-📌 O conteúdo do arquivo contendo os dados de todos os Digimons foi copiado e colocado em um data.json
+📌 O conteúdo do arquivo contendo os dados de todos os Digimons foi copiado e colocado em um novo arquivo data.json
 
 📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database
 
 📌 A partir do arquivo .json, o banco foi populado de forma automática utilizando um programa chamado Firefoo
 
-📌 A API para consumir este banco foi construída utilizando JavaScript puro
+📌 A API para consumir este banco foi construída em um arquivo api.js utilizando JavaScript puro 
 
-📌 As credenciais do banco, bem como os métodos de acesso aos dados estão contidos neste arquivo api.js
+📌 As credenciais do banco, bem como os métodos de acesso aos dados, estão contidos neste arquivo api.js
 
 📌 A estilização da página foi feita com HTML + CSS 
 
-📌 Por fim, o deploy do projeto foi realizado utilizando a ferramenta de hospedagem gratuita Netlify
+📌 Por fim, o deploy do projeto foi realizado utilizando a ferramenta de hospedagem gratuita e online chamada Netlify
 
 🌐 databaseURL ➔ https://projeto-digimon-default-rtdb.firebaseio.com
 
@@ -37,7 +37,7 @@ Tecnologias usadas:
 ## Como funciona
 
 1) O user digita o nome de um Digimon no campo de busca e clica em consultar
-2) Se o Digimon digitado estiver no banco, sua imagem é exibida, bem como seu level e a quantidade total de outros Digimons com o mesmo level
+2) Se o Digimon digitado estiver no banco, sua imagem é exibida, bem como seu level e a quantidade total de outros Digimons do banco com o mesmo level
 3) Se o Digimon digitado não estiver no banco, uma mensagem de erro é exibida 
 
 
