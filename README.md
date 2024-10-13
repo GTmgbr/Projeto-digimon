@@ -16,7 +16,7 @@ Tecnologias usadas:
 
 📌 Primeiramente, um arquivo JSON foi disponibilizado a partir da API: https://digimon-api.vercel.app/
 
-📌 O conteúdo do arquivo contendo os dados de todos os Digimons foi baixado e colocado em um data.json
+📌 O conteúdo do arquivo contendo os dados de todos os Digimons foi copiado e colocado em um data.json
 
 📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database
 
