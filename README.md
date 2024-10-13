@@ -20,13 +20,13 @@ Tecnologias usadas:
 
 📌 Um banco de dados foi criado no Firebase utilizando o Firestore Database
 
-📌 A partir data.json, uma coleção do banco foi populada de forma automática utilizando um programa chamado Firefoo
+📌 A partir do data.json, uma coleção do banco foi populada de forma automática utilizando um programa chamado Firefoo
 
 📌 A API para consumir este banco foi construída em um arquivo api.js utilizando JavaScript puro 
 
 📌 As credenciais do banco, bem como os métodos de acesso aos dados, estão contidos neste arquivo api.js
 
-📌 A estilização da página foi feita com HTML + CSS 
+📌 A estilização da página foi feita em HTML + CSS 
 
 📌 Por fim, o deploy do projeto foi realizado utilizando uma ferramenta de hospedagem gratuita e online chamada Netlify
 
