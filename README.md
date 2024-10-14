@@ -1,6 +1,6 @@
 # Projeto Digimon
 
-Teste prático para estágio na empresa GF Software Financeiro
+Teste prático para vaga de estágio 
 
 Link de acesso ➔ https://projeto-digimon-gustavo-totti.netlify.app
 
