@@ -12,6 +12,8 @@ Tecnologias usadas:
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
+![Image](https://github.com/user-attachments/assets/4bbaebbb-0fcb-422b-886c-cd40c7b41e44)
+
 ## Desenvolvimento
 
 📌 Primeiramente, um arquivo inicial JSON foi disponibilizado a partir da API: https://digimon-api.vercel.app/
